@@ -1,0 +1,219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The seven women confessors, or A discovery of the seuen white divels which liued at Queen-Street in Coven-Garden. Viz. Katherine Wels, Susan Baker, Anne Parker, Katherine Smith, Elinor Hall, Mary Iones, Dorathy Marsh. Whose articles are herein declared, and their mad pranks presented to the view of the world. Discovered by Iohn Stockden a yeoman. Jan. 22. 1641.</title>
+            <author>Stockden, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93919</idno>
+            <idno type="STC">Wing S5695</idno>
+            <idno type="STC">Thomason E134_15</idno>
+            <idno type="STC">ESTC R698</idno>
+            <idno type="EEBO-CITATION">99873061</idno>
+            <idno type="PROQUEST">99873061</idno>
+            <idno type="VID">156405</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93919)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156405)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E134[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The seven women confessors, or A discovery of the seuen white divels which liued at Queen-Street in Coven-Garden. Viz. Katherine Wels, Susan Baker, Anne Parker, Katherine Smith, Elinor Hall, Mary Iones, Dorathy Marsh. Whose articles are herein declared, and their mad pranks presented to the view of the world. Discovered by Iohn Stockden a yeoman. Jan. 22. 1641.</title>
+                  <author>Stockden, John.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Smith,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Thomason Collection, and Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Witchcraft --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156405:1"/>
+            <pb facs="tcp:156405:1" rendition="simple:additions"/>
+            <p>THE SEVEN WOMEN CONFESSORS, <hi>OR A</hi> DISCOVERY <hi>OF THE</hi> Seuen white Divels which liued at <hi>Queen-ſtreet</hi> in <hi>Coven-Garden.</hi>
+            </p>
+            <p>VIZ.
+<list>
+                  <item>
+                     <hi>Katherine Wels,</hi>
+                  </item>
+                  <item>
+                     <hi>Suſan Baker,</hi>
+                  </item>
+                  <item>
+                     <hi>Anne Parker,</hi>
+                  </item>
+                  <item>
+                     <hi>Katherine Smith,</hi>
+                  </item>
+                  <item>
+                     <hi>Elinor Hall,</hi>
+                  </item>
+                  <item>
+                     <hi>Mary Iones,</hi>
+                  </item>
+                  <item>
+                     <hi>Dorathy Marsh.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>WHOSE</hi> ARTICLES ARE HEREIN DECLARED, AND their mad pranks preſented to the view of the World.</p>
+            <p>
+               <hi>DISCO<g ref="char:V">Ʋ</g>ERED</hi> By <hi>Iohn Stockden</hi> a Yeoman. Jan. 22. 1641.</p>
+            <p>London. Printed for <hi>Iohn Smith.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156405:2"/>
+            <pb facs="tcp:156405:2"/>
+            <head>THE SEVEN WOMEN Confeſsors. <hi>OR,</hi> A DISCOVERIE OF THE SEVEN WHITE Divels, which lived at <hi>Queen-ſtreet</hi> in <hi>Coven-garden.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">R</seg>Oman Papiſts are dai<g ref="char:EOLhyphen"/>ly complain'd of, their names of late have bin ſo odious unto each Prote<g ref="char:EOLhyphen"/>ſtant, that they cry up and down <hi>Eng<g ref="char:EOLhyphen"/>land, down with them down with them.</hi>
+            </p>
+            <pb facs="tcp:156405:3"/>
+            <p>Nor is their cry unjuſt, ſo many diſtracti<g ref="char:EOLhyphen"/>ons by them being cauſed, <hi>Ieſuits, Prieſts,</hi> and <hi>Friers,</hi> were once in <hi>England,</hi> as plenty as <hi>Patientees, Promooters,</hi> or double feed <hi>Attor<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ies.</hi> At which, was very much murmuring, many juſt reaſons being given to the <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> how prejudiciall their ſtaying would be to the kingdome.</p>
+            <p>Whereupon the Honourable Court of <hi>Par<g ref="char:EOLhyphen"/>liament</hi> took it into their wiſe conſiderations, and one of the firſt things which they eſtabli<g ref="char:EOLhyphen"/>ſhed was their baniſhment, againſt the time ſpecified in the <hi>Proclamation,</hi> and thoſe which were found ſlack in obeying the aforeſaid <hi>Proclamation,</hi> were to ſuffer according to the Lawes of <hi>England:</hi> ſome were ſuppos'd to fly away, but many were known to be left be<g ref="char:EOLhyphen"/>hind, wherof one is executed, and eight at this time are priſoners in New-gate. Not one of them being uncondemned: one of which was tryed upon Munday being the 17. day of Jan. who being called to the Bar, he was asked whi<g ref="char:EOLhyphen"/>ther he were a Jeſuit or no: at which he ſee<g ref="char:EOLhyphen"/>med to anſwer with a puſh, why was I b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ought <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i her elſe; yes, I confeſſe to you all, that I have bin a Jeſuit above thirty years, and ſay unto you all, J think in my conſcience that there is no ſuch law, is to condemn a man for his conſcience.</p>
+            <p>Wherupon a Jury was called, who ſat up<g ref="char:EOLhyphen"/>on
+<pb facs="tcp:156405:3"/>him, guilty of death: whereupon hee was condemned to be drawn, hang'd and quarter'd, at which he ſeem'd not ſo much as to change his countenance, hoping to be reprieved as the reſt before were.</p>
+            <p>But leaving him to his fortunes: by all good womens favours, I will treat of a late Diſcovery of ſome women Confeſſors, whoſe title although it be rude, yet is this Relation true.</p>
+            <p>Some certain women belonging to the Po<g ref="char:EOLhyphen"/>piſh crew, perceiving that <hi>Ieſuits, Prieſts,</hi> nor <hi>F<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yers</hi> did dare publickly to ſhew their faces, impudently reſolved to ſupply their places, and privatly proclaimed themſelves Confeſ<g ref="char:EOLhyphen"/>ſors, ordained by Father <hi>Ciprian,</hi> their abode was in Queen-ſtreet at Coven-garden.</p>
+            <p>Unto whom did daily many aſſemblet hem<g ref="char:EOLhyphen"/>ſelves, not onely for abſolution, but diſtracti<g ref="char:EOLhyphen"/>on.</p>
+            <p>Their Names are theſe:
+<list>
+                  <item>
+                     <hi>Katherin Wels,</hi>
+                  </item>
+                  <item>
+                     <hi>Suſan Baker,</hi>
+                  </item>
+                  <item>
+                     <hi>Anne Parker,</hi>
+                  </item>
+                  <item>
+                     <hi>Katherin Smith,</hi>
+                  </item>
+                  <item>
+                     <hi>Elinor Hall,</hi>
+                  </item>
+                  <item>
+                     <hi>Maior Iones,</hi>
+                  </item>
+                  <item>
+                     <hi>Dorathie Marſh.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The manner of their abſolution was thus.
+<pb facs="tcp:156405:4"/>He or ſhe which came to be confeſſed, brought a piece of ſilver in hand, which was paid as an offering to the chiefe Matron <hi>Katherine Wels,</hi> then of all the ſeven might he chuſe his Con<g ref="char:EOLhyphen"/>feſſor, which goes preſently into a room with them or her, but this by the way muſt be made known, that amongſt theſe ſeven female Con<g ref="char:EOLhyphen"/>feſſors was there but one old woman, which was Miſtris <hi>Wels,</hi> the other young and hand<g ref="char:EOLhyphen"/>ſome.</p>
+            <p>Either of which being privately confeſſing one, it was ten to one (unleſſe ſhe knew him well) if ſhe did not make him confeſſe that his purſe was gone: and to come thither to com<g ref="char:EOLhyphen"/>plain for it, no man durſt, for fear of a good-Fridays whipping out of Lent; for why, each of them were ſworn to keep theſe Articles.</p>
+            <p n="1">I. FIrſt, never to declare any thing to Hereticks, which belong to their ſacred Order.</p>
+            <p n="2">II. Secondly, never again to come unto them, unleſſe in the dark.</p>
+            <p n="3">III. Thirdly, that he ſhould not queſtion their holy Au<g ref="char:EOLhyphen"/>thoritie.</p>
+            <p n="4">IV. Fourthly, that wickedneſſe was never committed in that houſe.</p>
+            <pb facs="tcp:156405:4"/>
+            <p n="5">V. Fiftly, to confeſſe all things to them, nothing being hid.</p>
+            <p n="6">VI. <hi>Sixtly, never to be confeſſed, by any man after<g ref="char:EOLhyphen"/>wards.</hi>
+            </p>
+            <p>
+               <hi>And laſtly, if it were his fortune to ingonder with any of the female Confeſſors, not to tell it to any of the reſt.</hi>
+            </p>
+            <p>And ſo the Pope muſt help him: by which way they ſtuffe their purſes with gold, and their bellies with children, and then did they againſt their wils forſake their cheating Nun<g ref="char:EOLhyphen"/>nery, the chiefe cauſe being diſcovered, by <hi>John Stockden,</hi> a plain Country fellow, who was willing to have a wench, but not to ſwear to their Articles.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
